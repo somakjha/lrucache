@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lrucache/static/css/main.69e1db70.css",
+    "main.js": "/lrucache/static/js/main.7692f420.js",
+    "static/media/bgg.jpg": "/lrucache/static/media/bgg.4d0ea9e07af487b5072f.jpg",
+    "index.html": "/lrucache/index.html",
+    "main.69e1db70.css.map": "/lrucache/static/css/main.69e1db70.css.map",
+    "main.7692f420.js.map": "/lrucache/static/js/main.7692f420.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69e1db70.css",
+    "static/js/main.7692f420.js"
+  ]
+}
