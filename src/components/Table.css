@@ -1,0 +1,25 @@
+.table-container
+{   
+
+
+float: right;
+margin-right: 35%;
+margin-top: 15%;
+width: 20%;
+font-size: large;
+  
+}
+
+.inner-container
+{  
+     
+     float: left;
+     width: 20%;
+     margin-left: 10%;
+     margin-top: 15%;
+}
+
+.outer-container
+{
+    
+}
