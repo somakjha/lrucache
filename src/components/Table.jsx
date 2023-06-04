@@ -244,6 +244,9 @@ function Table() {
                     return (
                         <ListGroup.Item key={i}>{num}</ListGroup.Item>
                     )
+                    else{
+                        return null
+                    }
                 })}
                 </ListGroup>
             </div>

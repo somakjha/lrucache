@@ -1,7 +1,7 @@
 import './App.css';
 import Table from './components/Table';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Container, Nav } from 'react-bootstrap';
+import { Container} from 'react-bootstrap';
 import Navbar from 'react-bootstrap/Navbar'
 function App() {
   return (
